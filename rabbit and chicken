@@ -1,0 +1,6 @@
+head=35
+foot=94
+for chicken in range(0,head+1):
+    rabbit=head-chicken
+    if chicken*2+rabbit*4==foot
+       print('鸡',chicken,'兔',rabbit)
